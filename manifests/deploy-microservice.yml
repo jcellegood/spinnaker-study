@@ -62,5 +62,3 @@ spec:
                             serviceName: crazy-eights-microservice-service
                             servicePort: 30201
 
-# Test Commit
-
